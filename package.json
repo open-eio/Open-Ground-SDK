@@ -1,0 +1,21 @@
+{
+  "name": "Ground Hog",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~3.4.8",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/open-eie/Ground-Hog.git"
+  },
+  "author": "",
+  "license": "AGPL-3",
+  "gitHead": "20378dfb97e621841450ae25af78c2d4857a6585"
+}
